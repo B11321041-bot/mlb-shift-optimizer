@@ -3,3 +3,5 @@ pybaseball
 pandas
 matplotlib
 scikit-learn
+requests
+Pillow
